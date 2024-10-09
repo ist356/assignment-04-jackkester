@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jack Kester
+Sudent Email:  jwkester@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to make a streamlit ui that can take in a file as input, display that file as a dataframe, and allow the user to control which columns and values they want to see. This was done through st.toggle which is a switch input, st.multiselect which allows the user to input multiple options and then the dataframe will display based off that input, and st.selectbox which is a drop down menu input. This was a great refresher on how to iterate through a pandas dataframe while solidifying the streamlit UI. The hackathon file was from my hackathon this weekend. I just decided to use this folder because it had all the requirements already. 
